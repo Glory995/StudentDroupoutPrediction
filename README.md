@@ -23,21 +23,22 @@ To run the notebook, you'll need to have Python installed along with the necessa
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 Usage
+
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/student-dropout-analysis.git
+
+
+git clone https://github.com/Glory995/StudentDroupoutPrediction.git
 cd student-dropout-analysis
 Install dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
-Start Jupyter Notebook:
+
+#Start Jupyter Notebook:
 
 bash
 Copy code
